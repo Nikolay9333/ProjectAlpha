@@ -1,0 +1,9 @@
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\AlphaLib\bin\Debug\netcoreapp2.1\AlphaLib.deps.json
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\AlphaLib\bin\Debug\netcoreapp2.1\AlphaLib.dll
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\AlphaLib\obj\Debug\netcoreapp2.1\AlphaLib.csprojAssemblyReference.cache
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\AlphaLib\obj\Debug\netcoreapp2.1\AlphaLib.csproj.CoreCompileInputs.cache
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\AlphaLib\obj\Debug\netcoreapp2.1\AlphaLib.AssemblyInfoInputs.cache
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\AlphaLib\obj\Debug\netcoreapp2.1\AlphaLib.AssemblyInfo.cs
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\AlphaLib\bin\Debug\netcoreapp2.1\AlphaLib.pdb
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\AlphaLib\obj\Debug\netcoreapp2.1\AlphaLib.dll
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\AlphaLib\obj\Debug\netcoreapp2.1\AlphaLib.pdb
