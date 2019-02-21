@@ -1,0 +1,6 @@
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp2.1\PtAlpha.csprojAssemblyReference.cache
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp2.1\PtAlpha.csproj.CoreCompileInputs.cache
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp2.1\PtAlpha.RazorAssemblyInfo.cache
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp2.1\PtAlpha.RazorAssemblyInfo.cs
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp2.1\PtAlpha.AssemblyInfoInputs.cache
+C:\Users\andrey1\Documents\GitHub\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp2.1\PtAlpha.AssemblyInfo.cs
